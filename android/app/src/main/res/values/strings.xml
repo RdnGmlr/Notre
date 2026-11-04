@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Notre Socielle</string>
+    <string name="title_activity_main">Notre Socielle</string>
+    <string name="package_name">com.notresocielle.order</string>
+    <string name="custom_url_scheme">com.notresocielle.order</string>
+</resources>
